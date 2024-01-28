@@ -5,7 +5,7 @@
 The House Price Prediction project involves the development of a machine learning model to predict residential property prices based on various features. Utilizing a dataset containing information such as square footage, number of bedrooms, location details, and other relevant attributes, the project aims to build an accurate and reliable predictive model.
 
 **Challenges :**  
-Build a machine learning model that can predict credit House Price Prediction.
+Build a machine learning model that can predict House Price Prediction.
 
 ## Project Goal
 
@@ -18,7 +18,7 @@ The project goals is to provide valuable insights for homebuyers, real estate ag
 
 ## Project Result
 
-[Click here to get full code](https://github.com/nickenshidqia/Credit_Risk_Assessment_IDX_Partners/blob/906f1c14fe45de01844e1504028ff0b2d48ebe3c/Credit%20Risk%20Assessment%20%20-%20Nicken%20Shidqia%20N.ipynb)
+[Click here to get full code](https://github.com/nickenshidqia/House_Price_Prediction/blob/50d7ddab4844e568f11130b522d206c97cc5192c/House%20Price%20Prediction.ipynb)
 
 ### Dataset Used
 
